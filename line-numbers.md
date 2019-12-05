@@ -6,7 +6,9 @@ what is this?
 #### 6
 Who is the owner 
 #### 8
-GitHub is really good
+
+GitHub is really awesome
+
 #### 10
 #### 11
 #### 12
