@@ -8,10 +8,11 @@ Who is the owner
 #### 8
 
 GitHub is really awesome
-
+<<<<<<< HEAD
 U big smart [($)]
-
-
+=======
+Hello
+>>>>>>> cb1ab98cfc84317f8aa95662818l
 
 #### 10
 #### 11
