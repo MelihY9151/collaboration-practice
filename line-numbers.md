@@ -6,7 +6,7 @@ what is this?
 #### 6
 Who is the owner 
 #### 8
-#### 9
+GitHub is awesome
 #### 10
 #### 11
 #### 12
